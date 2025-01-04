@@ -1,0 +1,19 @@
+{
+    "ServerKind": 0,
+    "OrganizationName": "Bmmx",
+    "ClassPlanSource": {
+        "Value": "https://gitee.com/xyt6219510/bmmx_classisland-mgmt-cfg/raw/master/ClassPlans.json",
+        "Version": 2
+    },
+    "TimeLayoutSource": {
+        "Value": "https://gitee.com/xyt6219510/bmmx_classisland-mgmt-cfg/raw/master/timelayouts.json",
+        "Version": 2
+    },
+    "SubjectsSource": {
+        "Value": "https://gitee.com/xyt6219510/bmmx_classisland-mgmt-cfg/raw/master/subjects.json",
+        "Version": 2
+    },
+    "PolicySource": {
+        "Value": "https://gitee.com/xyt6219510/bmmx_classisland-mgmt-cfg/raw/master/policy.json",
+        "Version": 2
+}
